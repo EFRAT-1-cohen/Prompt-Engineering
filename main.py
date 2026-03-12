@@ -3,7 +3,7 @@ import gradio as gr
 from openai import OpenAI
 import os
 from dotenv import load_dotenv
-from prompts import EXAMPLE_INPUTS, PROMPT_V5
+from prompts import EXAMPLE_INPUTS, SYSTEM_PROMPT
 
 
 load_dotenv()
@@ -50,7 +50,7 @@ def translate_to_command(user_input):
             messages=[
                 {
                     "role": "system",
-                    "content": PROMPT_V5
+                    "content": SYSTEM_PROMPT
                 },
                 {
                     "role": "user", 
