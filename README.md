@@ -113,8 +113,7 @@ python -m venv .venv
 ### 3. התקנת תלויות
 
 ```bash
-python -m pip install -r requirements.txt
-# או ידני:
+
 python -m pip install gradio anthropic python-dotenv
 ```
 
