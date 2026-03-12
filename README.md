@@ -168,7 +168,7 @@ python main.py
 | **Gradio**           | ממשק וואב ידידותי  |
 | **Anthropic Claude** | מודל שפה מתקדם     |
 | **Python 3.12+**     | שפת תכנות          |
-| **python-dotenv**    | ניהול משתנים סביבה |
+
 
 ---
 
@@ -198,8 +198,7 @@ python -m pip freeze > requirements.txt
 אם נתקלת בבעיה:
 
 1. בדוק שה-API Key נכון
-2. ודא שכל החבילות מותקנות: `python -m pip install -r requirements.txt`
-3. בדוק את הקובץ `prompts.py` לשמירה על format הנכון
+2. בדוק את הקובץ `prompts.py` לשמירה על format הנכון
 
 ---
 
