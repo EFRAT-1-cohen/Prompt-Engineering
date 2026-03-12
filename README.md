@@ -30,7 +30,7 @@
 
 כל תרחישי הבדיקה, התוצאות וההשוואות תיעדו בדקוק הבא:
 
-👉 **[צפה בגיליון בדיקות וניתוח הביצוע](https://docs.google.com/spreadsheets/d/YOUR_SHEET_ID)**
+👉 **[צפה בגיליון בדיקות וניתוח הביצוע](https://docs.google.com/spreadsheets/d/1aLFTz4b4jrVUDbrbmsPUDYJZaBG-gcGGyixDpmhd68M/edit?usp=sharing)**
 
 _כל גרסאות הפרומפט מתועדות בקוד בקבצים: `prompts.py` / `prompt_versions.py`_
 
