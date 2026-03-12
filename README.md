@@ -188,7 +188,7 @@ python main.py
 
 ```bash
 python -m pip install <package_name>
-python -m pip freeze > requirements.txt
+
 ```
 
 ---
