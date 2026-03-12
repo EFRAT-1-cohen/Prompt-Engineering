@@ -144,7 +144,6 @@ python main.py
 ```
 ├── main.py                 # קובץ הרצה ראשי + ממשק Gradio
 ├── prompts.py              # הפרומפט המערכתי הנוכחי
-├── requirements.txt        # רשימת התלויות
 ├── .env                    # קובץ API Key (לא להעלות!)
 ├── .gitignore              # הגדרות Git
 └── README.md               # קובץ זה
